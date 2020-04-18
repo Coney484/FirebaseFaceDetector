@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseFaceDetector</string>
+    <string name="open_camera">OpenCamera</string>
+    <string name="ok">ok</string>
+</resources>

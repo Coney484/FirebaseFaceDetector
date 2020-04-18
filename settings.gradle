@@ -1,0 +1,2 @@
+rootProject.name='FirebaseFaceDetector'
+include ':app'

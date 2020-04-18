@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831656309923",
+    "firebase_url": "https://fir-facedetector-99387.firebaseio.com",
+    "project_id": "fir-facedetector-99387",
+    "storage_bucket": "fir-facedetector-99387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831656309923:android:e6bfa82c64133823af3b16",
+        "android_client_info": {
+          "package_name": "com.example.firebasefacedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831656309923-eiqnabh4s8c40q0k20laouvt0mf99ru4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZl0H6F-DijEGgUIoyMfaLSCx3F7L84w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831656309923-eiqnabh4s8c40q0k20laouvt0mf99ru4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
